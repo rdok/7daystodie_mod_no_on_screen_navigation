@@ -1,0 +1,11 @@
+<no-on-screen>
+    <set xpath="/nav_object_classes//onscreen_settings/property[@name='sprite_name']/@value">
+        ''
+    </set>
+    <set xpath="/nav_object_classes//onscreen_settings/property[@name='color']/@value">
+        255,255,255,0
+    </set>
+    <set xpath="/nav_object_classes//onscreen_settings/property[@name='text_type']/@value">
+        ''
+    </set>
+</no-on-screen>
