@@ -5,7 +5,7 @@
 
 > Remove all on-screen navigation elements.
 
-[![No On Screen Navigation Showcase](https://raw.githubusercontent.com/rdok/7daystodie_mod_no_on_screen_navigation/main/documentation/showcase_compatibility_with_steel_hud.gif)](https://www.nexusmods.com/7daystodie/mods/5702)
+[![No On Screen Navigation Showcase](https://raw.githubusercontent.com/rdok/7daystodie_mod_no_on_screen_navigation/main/documentation/showcase.gif)](https://www.nexusmods.com/7daystodie/mods/5702)
 
 - 7daystodie Version: 1.0 (b333)
 - Install with [Vortex](https://www.nexusmods.com/about/vortex/).
